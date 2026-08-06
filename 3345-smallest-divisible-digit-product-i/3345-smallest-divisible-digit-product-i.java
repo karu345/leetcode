@@ -9,8 +9,9 @@ class Solution {
     public int prod(int n) {
         int p = 1;
         while (n > 0) {
-            String s = Integer.toString(n);
-            int a = (int)(s.charAt(s.length()-1) - '0');
+            // String s = Integer.toString(n);
+            // int a = (int)(s.charAt(s.length()-1) - '0');
+            int a = n % 10;
             n = n/10;
             p = p*a;
         }
