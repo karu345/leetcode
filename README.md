@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/karu345/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karu345/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
