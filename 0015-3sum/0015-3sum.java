@@ -16,10 +16,8 @@ class Solution {
                     ans.add(Arrays.asList(curr, nums[l], nums[r]));
                     l++;
                     r--;
-                    while (l < r && nums[l] == nums[l - 1]) {
+                    while (l < r && nums[l] == nums[l - 1] && nums[r] == nums[r + 1]) {
                         l++;
-                    }
-                    while (l < r && nums[r] == nums[r + 1]) {
                         r--;
                     }
                 } else if (curr + nums[l] + nums[r] > 0) {
