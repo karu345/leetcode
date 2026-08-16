@@ -61,7 +61,7 @@ class Solution {
             for (int i = 0; i < graph[c].size(); i++) {
                 Edges e = graph[c].get(i);
                 int next = e.d;
-                if (dist[c] != Integer.MAX_VALUE && dist[next] > t.cost + e.w && t.stop < k) {
+                if (dist[next] > t.cost + e.w && t.stop < k) {
                     dist[next] = t.cost + e.w;
                     q.add(new Trio(next, t.stop+1, dist[next]));
                 }
