@@ -3,8 +3,7 @@ class Solution {
         int res = 0;
         HashMap<Integer, Integer> hm = new HashMap<>();
         for(int i = 0; i < nums.length; i++){
-            int m = i+1;
-            hm.put(nums[i], m);
+            hm.put(nums[i], i);
         }
         for(int i = 0; i <= nums.length; i++){
             int ans = (i+1)*k;
