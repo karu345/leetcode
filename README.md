@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karu345/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
