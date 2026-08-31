@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karu345/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/karu345/leetcode/tree/master/0015-3sum) |
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karu345/leetcode/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
