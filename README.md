@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karu345/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/karu345/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karu345/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karu345/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karu345/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
