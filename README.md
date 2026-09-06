@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/karu345/leetcode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/karu345/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/karu345/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/karu345/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/karu345/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
