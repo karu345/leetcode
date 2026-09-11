@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/karu345/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karu345/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/karu345/leetcode/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/karu345/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/karu345/leetcode/tree/master/0733-flood-fill) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karu345/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/karu345/leetcode/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
