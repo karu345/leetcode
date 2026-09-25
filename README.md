@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karu345/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karu345/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/karu345/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karu345/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karu345/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
