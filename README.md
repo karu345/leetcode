@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karu345/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/karu345/leetcode/tree/master/0217-contains-duplicate) |
+| [0275-h-index-ii](https://github.com/karu345/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/karu345/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/karu345/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/karu345/leetcode/tree/master/0724-find-pivot-index) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/karu345/leetcode/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/karu345/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karu345/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
