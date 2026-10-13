@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/karu345/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/karu345/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/karu345/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/karu345/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
