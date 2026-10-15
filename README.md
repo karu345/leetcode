@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karu345/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karu345/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/karu345/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/karu345/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/karu345/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/karu345/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karu345/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karu345/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
