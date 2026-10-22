@@ -20,6 +20,6 @@ class Solution {
                 e = m - 1;
             }
         }
-        return -1;
+        return s;
     }
 }
