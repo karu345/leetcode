@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karu345/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karu345/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karu345/leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/karu345/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/karu345/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karu345/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/karu345/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/karu345/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/karu345/leetcode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/karu345/leetcode/tree/master/0410-split-array-largest-sum) |
