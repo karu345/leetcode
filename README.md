@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/karu345/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karu345/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karu345/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karu345/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
