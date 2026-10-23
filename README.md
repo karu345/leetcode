@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/karu345/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/karu345/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/karu345/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/karu345/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/karu345/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/karu345/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/karu345/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/karu345/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/karu345/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karu345/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karu345/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karu345/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/karu345/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/karu345/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/karu345/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/karu345/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -315,4 +320,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
