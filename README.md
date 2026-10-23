@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/karu345/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karu345/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/karu345/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3110-score-of-a-string](https://github.com/karu345/leetcode/tree/master/3110-score-of-a-string) |
 ## Queue
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/karu345/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/karu345/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
 | ------- |
