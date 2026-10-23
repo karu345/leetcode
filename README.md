@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/karu345/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/karu345/leetcode/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/karu345/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
