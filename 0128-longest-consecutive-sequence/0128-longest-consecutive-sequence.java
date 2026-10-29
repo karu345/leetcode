@@ -17,7 +17,6 @@ class Solution {
                 len = 0;
             }
         }
-        max = Math.max(len, max);
         return max;
     }
 }
