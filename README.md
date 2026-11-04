@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/karu345/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karu345/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/karu345/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2129-capitalize-the-title](https://github.com/karu345/leetcode/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/karu345/leetcode/tree/master/3110-score-of-a-string) |
 ## Queue
 |  |
