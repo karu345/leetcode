@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/karu345/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karu345/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/karu345/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/karu345/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/karu345/leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/karu345/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/karu345/leetcode/tree/master/0692-top-k-frequent-words) |
