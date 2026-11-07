@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/karu345/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/karu345/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/karu345/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/karu345/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/karu345/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/karu345/leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/karu345/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karu345/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/karu345/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/karu345/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/karu345/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/karu345/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karu345/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/karu345/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karu345/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/karu345/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
@@ -396,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karu345/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
