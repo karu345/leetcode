@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/karu345/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karu345/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karu345/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/karu345/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/karu345/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/karu345/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karu345/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karu345/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/karu345/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karu345/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karu345/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/karu345/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/karu345/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
