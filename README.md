@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karu345/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karu345/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karu345/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1920-build-array-from-permutation](https://github.com/karu345/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karu345/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karu345/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/karu345/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/karu345/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/karu345/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/karu345/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
