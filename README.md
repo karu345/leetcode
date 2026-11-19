@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/karu345/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karu345/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/karu345/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/karu345/leetcode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karu345/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karu345/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karu345/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
