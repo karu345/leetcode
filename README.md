@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/karu345/leetcode/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karu345/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/karu345/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1678-goal-parser-interpretation](https://github.com/karu345/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karu345/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karu345/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karu345/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
