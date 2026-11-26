@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/karu345/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/karu345/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karu345/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/karu345/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karu345/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/karu345/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3457-eat-pizzas](https://github.com/karu345/leetcode/tree/master/3457-eat-pizzas) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/karu345/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karu345/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/karu345/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/karu345/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/karu345/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karu345/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/karu345/leetcode/tree/master/2129-capitalize-the-title) |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/karu345/leetcode/tree/master/0881-boats-to-save-people) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/karu345/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
